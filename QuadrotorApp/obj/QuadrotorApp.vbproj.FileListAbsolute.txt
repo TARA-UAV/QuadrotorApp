@@ -1,0 +1,10 @@
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\QuadrotorApp.exe
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\QuadrotorApp.xml
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\QuadrotorApp.pdb
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\bin\Release\QuadrotorApp.exe
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\bin\Release\QuadrotorApp.pdb
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\bin\Release\QuadrotorApp.xml
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\QuadrotorApp.frmMain.resources
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\QuadrotorApp.Resources.resources
+D:\Visual Studio 2005\Projects\QuadrotorApp\QuadrotorApp\obj\Release\QuadrotorApp.vbproj.GenerateResource.Cache
